@@ -1,0 +1,2 @@
+# Snippet Body
+Library for the framework of a snippet body into segment of types like placeholders, transforms, etc like in vscode or textmate with some added functionality. Does not actually choose what segment type are to be supported. That is the responsability of another program that implements this library. This is allow this library to be unopininionated about what functionality to include and exclude as well as adhere to the unix philosophy of doing 1 thing and doing 1 well. This is prealpha software at the moment and it's history is subject to being overwritten.
